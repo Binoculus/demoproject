@@ -1,19 +1,22 @@
-# demoproject
+# 该项目为学习项目
 
-## Project setup
+## 项目安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 本地启动项目
 ```
 npm run serve
+npm run dev
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 该项目对应csdn地址为
+```
+https://blog.csdn.net/m0_74145101
+```
